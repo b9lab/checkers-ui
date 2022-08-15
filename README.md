@@ -13,6 +13,7 @@ To make it easier to link to the content at the different stages of the project'
 The script `push-branches.sh` is used to extract these commits and force push them to the appropriate branch in the repository. After having made changes, you should run this script, and also manually force push to `main`.
 
 * [`start`](../../tree/start)
+* [`generated`](../../tree/generated) [diff](../../compare/start...generated)
 
 ## V1 branches progression
 
