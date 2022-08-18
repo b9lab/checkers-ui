@@ -14,6 +14,7 @@ The script `push-branches.sh` is used to extract these commits and force push th
 
 * [`start`](../../tree/start)
 * [`generated`](../../tree/generated) [diff](../../compare/start...generated)
+* [`stargate`](../../tree/stargate) [diff](../../compare/generated...stargate)
 
 ## V1 branches progression
 
