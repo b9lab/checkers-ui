@@ -16,6 +16,7 @@ The script `push-branches.sh` is used to extract these commits and force push th
 * [`generated`](../../tree/generated) [diff](../../compare/start...generated)
 * [`stargate`](../../tree/stargate) [diff](../../compare/generated...stargate)
 * [`signing-stargate`](../../tree/signing-stargate) [diff](../../compare/stargate...signing-stargate)
+* [`unwired-gui`](../../tree/unwired-gui) [diff](../../compare/signing-stargate...unwired-gui)
 
 ## V1 branches progression
 
